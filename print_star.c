@@ -4,7 +4,7 @@ int main(void) {
 
 	int num;
 
-	printf("Please input when you want every number:");
+	printf("Please input any number:");
 	scanf_s("%d", &num);
 
 	for (int line = 1; line <= num; line++) {
